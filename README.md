@@ -1,4 +1,4 @@
-# Farmer-Consumer Marketplace Application 🌾🛒
+# Greenway Groceries 🌾🛒
 
 ## Objective
 
